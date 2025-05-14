@@ -69,3 +69,15 @@ Open [localhost:8000/docs](http://localhost:8000/docs) to view the FastApi docs.
 ```sh
 phi ws down
 ```
+
+## Next Steps:
+
+- [Run the Api App on AWS](https://docs.phidata.com/templates/ai-api/run-aws)
+- Read how to [manage the development application](https://docs.phidata.com/how-to/development-app)
+- Read how to [manage the production application](https://docs.phidata.com/how-to/production-app)
+- Read how to [add python libraries](https://docs.phidata.com/how-to/python-libraries)
+- Read how to [format & validate your code](https://docs.phidata.com/how-to/format-and-validate)
+- Read how to [manage secrets](https://docs.phidata.com/how-to/secrets)
+- Add [CI/CD](https://docs.phidata.com/how-to/ci-cd)
+- Add [database tables](https://docs.phidata.com/how-to/database-tables)
+- Read the [Api App guide](https://docs.phidata.com/templates/ai-api)
